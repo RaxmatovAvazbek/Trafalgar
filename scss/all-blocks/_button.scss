@@ -1,0 +1,18 @@
+.button .btn{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 55px;
+} 
+.button .btn2 {
+    transition: all .5s;
+    background: transparent;
+    border: 2px solid #458FF6;
+    color: #458FF6;
+}
+.btn2:hover {
+    background-color: #458FF6;
+    color: white;
+}  
